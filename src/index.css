@@ -23,10 +23,10 @@ a:hover {
 }
 
 body {
-  margin: 0 auto;
-  display: flex;
-  justify-content: center;
-  max-width: 50%;
+  margin: 0;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* max-width: 50%; */
 }
 
 h1 {
